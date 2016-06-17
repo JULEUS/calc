@@ -61,7 +61,7 @@ button {
 }
 
 .calculator button:active {
-    background-color: #ddd;
+    background-color: #eee;
 }
 
 .calculator-buttons > .row:last-child > button:first-child {
